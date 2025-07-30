@@ -1,756 +1,1158 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.2): 1753912494589 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.2): 1753915272742 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912497699 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915275839 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912500792 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915278932 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912503890 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915282029 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912506986 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915285121 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912510089 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915288218 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912513181 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915291324 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912516277 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915294416 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912519380 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915297525 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912522540 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915300632 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912525650 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915303729 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912528760 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915306843 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912531864 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915309941 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912534970 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915313049 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912538063 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915316158 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912541157 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915319251 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912544270 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915322351 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912547376 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915325460 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912550481 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915328556 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912553577 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915331660 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912556668 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915334753 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912559759 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915337849 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912562862 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915340960 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912565955 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915344054 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912569064 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915347154 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912572162 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915350252 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912575256 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915353363 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912578358 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915356458 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912581454 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915359555 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912584548 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915362657 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912587647 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915365764 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912590743 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915368863 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912593838 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915371958 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912596938 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915375055 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912600038 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915378273 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912603141 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915381373 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912606233 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915384472 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912609332 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915387574 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912612425 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915390674 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912615524 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915393772 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912618650 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915396869 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912621745 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915399966 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912624849 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915403068 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912627984 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915406161 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912631075 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915409255 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912634167 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915412363 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912637269 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915415470 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912640374 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915418563 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912643468 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915421660 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912646567 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915424819 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912649669 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915427912 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912652764 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915431011 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912655856 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915434105 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912658951 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915437196 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912662045 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915440295 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912665154 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915443391 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912668250 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915446491 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912671353 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915449590 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912674452 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915452688 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912677549 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915455783 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912680641 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915458914 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912683736 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915462007 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912686834 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915465122 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912689934 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915468216 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912693031 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915471308 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912696124 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915474404 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912699217 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915477512 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912702311 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915480610 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912705405 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915483703 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912708500 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915486800 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912711595 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915489899 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912714702 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915492993 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912717803 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915496109 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912720907 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915499203 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912724002 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915502315 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912727097 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915505407 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912730197 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915508502 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912733305 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915511595 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912736398 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915514696 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912739494 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915517797 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912742591 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915520892 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912745688 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915524013 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912748782 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915527106 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912751878 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915530213 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912754978 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915533306 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912758071 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915536416 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912761174 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915539517 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912764266 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915542618 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912767374 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915545713 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912770466 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915548812 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912773569 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915551902 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912776671 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915555007 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912779762 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915558107 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912782857 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915561231 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912785958 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915564326 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912789053 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915567422 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912792151 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915570526 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912795250 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915573622 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912798353 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915576717 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912801447 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915579814 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912804544 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915582912 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912807641 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915586013 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912810736 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915589109 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912813832 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915592204 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912816924 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915595310 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912820031 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915598404 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912823129 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915601498 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912826222 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915604594 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912829313 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915607690 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912832406 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915610790 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912835504 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915613898 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912838608 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915617003 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912841712 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915620115 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912844811 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915623214 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912847907 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915626311 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912851000 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915629412 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912854105 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915632515 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912857196 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915635620 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912860293 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915638807 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912863391 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915641904 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912866507 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915644997 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912869600 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915648093 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912872694 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915651206 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912875797 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915654304 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912878909 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915657396 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753912882004 tunnel running, 1 tunnels registered
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915660502 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-self-warriors.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915663614 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915666708 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915669801 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915672902 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915676000 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915679137 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915682233 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915685340 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915688450 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915691574 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915694673 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915697773 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915700882 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915703985 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915707088 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915710194 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915713292 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+self-warriors.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915716399 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
+[2J8[0mplayit (v0.16.2): 1753915719503 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
+[2J8[0mplayit (v0.16.2): 1753915722600 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
+[2J8[0mplayit (v0.16.2): 1753915725709 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
+[2J8[0mplayit (v0.16.2): 1753915728804 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
+[2J8[0mplayit (v0.16.2): 1753915731907 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
+[2J8[0mplayit (v0.16.2): 1753915735147 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
+[2J8[0mplayit (v0.16.2): 1753915738247 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
+[2J8[0mplayit (v0.16.2): 1753915741360 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+tunnel pending: https://playit.gg/account/tunnels/e6c6a967-5ab5-4ac6-8780-91b69bd30a6c
+[2J8[0mplayit (v0.16.2): 1753915744473 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+tunnel pending: https://playit.gg/account/tunnels/e6c6a967-5ab5-4ac6-8780-91b69bd30a6c
+[2J8[0mplayit (v0.16.2): 1753915748580 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+tunnel pending: https://playit.gg/account/tunnels/e6c6a967-5ab5-4ac6-8780-91b69bd30a6c
+[2J8[0mplayit (v0.16.2): 1753915751715 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+graphics-songs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915754823 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+graphics-songs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915757922 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+graphics-songs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915761028 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+graphics-songs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915764123 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+graphics-songs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915767214 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+graphics-songs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915770304 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
+[2J8[0mplayit (v0.16.2): 1753915773412 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
+[2J8[0mplayit (v0.16.2): 1753915776522 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
+[2J8[0mplayit (v0.16.2): 1753915779617 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
+[2J8[0mplayit (v0.16.2): 1753915782728 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
+[2J8[0mplayit (v0.16.2): 1753915785818 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
+[2J8[0mplayit (v0.16.2): 1753915788924 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
+[2J8[0mplayit (v0.16.2): 1753915792022 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
+[2J8[0mplayit (v0.16.2): 1753915795138 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
+[2J8[0mplayit (v0.16.2): 1753915798239 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+tunnel pending: https://playit.gg/account/tunnels/6c15ca5e-171b-4010-8e24-870678120e5f
+[2J8[0mplayit (v0.16.2): 1753915801341 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+tunnel pending: https://playit.gg/account/tunnels/6c15ca5e-171b-4010-8e24-870678120e5f
+[2J8[0mplayit (v0.16.2): 1753915804442 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915807556 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915810661 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915813771 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915816879 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915819989 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915823091 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915826205 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915829309 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915832414 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915835523 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915838630 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915841734 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915844836 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915847933 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915851033 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915854139 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915857237 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915860334 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1753915863441 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+default-working.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.16.2): 1753915866546 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
+[2J8[0mplayit (v0.16.2): 1753915869667 tunnel running, 0 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+Add tunnels here: https://playit.gg/account/agents/548c377a-4b73-4368-bdd5-19fd08e4f22a
