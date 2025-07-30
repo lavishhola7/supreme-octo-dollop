@@ -55,3 +55,14 @@
 [30Jul2025 21:28:54.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
 [30Jul2025 21:28:54.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: whitelist ElGordoPepe<--[HERE]
 [30Jul2025 21:29:16.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added ElGordoPepe to the whitelist
+[30Jul2025 21:33:55.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Jul2025 21:33:55.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Jul2025 21:33:55.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Jul2025 21:33:55.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Jul2025 21:33:57.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Jul2025 21:33:58.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Jul2025 21:33:58.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Jul2025 21:33:58.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Jul2025 21:33:58.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Jul2025 21:33:58.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Jul2025 21:33:58.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
